@@ -1,2 +1,2 @@
-# didactic-eureka
+# ClickColor
 My first project
